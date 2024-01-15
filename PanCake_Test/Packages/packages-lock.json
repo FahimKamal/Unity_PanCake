@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.google.external-dependency-manager": {
+      "version": "https://github.com/google-unity/external-dependency-manager.git#1.2.177",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "64445bb59f6d9d4d7f24be5eea45e7fdf2146546"
+    },
+    "com.pancake.adjust": {
+      "version": "https://github.com/pancake-llc/adjust.git#4.36.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "94027f3f106e4e37e2336d145fca483475643daa"
+    },
     "com.pancake.heart": {
       "version": "https://github.com/pancake-llc/foundation.git?path=Assets/Heart#2.4.2",
       "depth": 0,
